@@ -1,2 +1,4 @@
-package org.itstep.helloworldspring;public class UserService {
+package org.itstep.helloworldspring;
+
+public class UserService {
 }

@@ -1,0 +1,607 @@
+[ {
+  "id" : 0,
+  "title" : "Things Fall Apart",
+  "isbn" : "111-222-333",
+  "year" : 1958,
+  "authors" : [ "Chinua Achebe" ]
+}, {
+  "id" : 1,
+  "title" : "Fairy tales",
+  "isbn" : "111-222-333",
+  "year" : 1836,
+  "authors" : [ "Hans Christian Andersen" ]
+}, {
+  "id" : 2,
+  "title" : "The Divine Comedy",
+  "isbn" : "111-222-333",
+  "year" : 1315,
+  "authors" : [ "Dante Alighieri" ]
+}, {
+  "id" : 5,
+  "title" : "One Thousand and One Nights",
+  "isbn" : "111-222-333",
+  "year" : 1200,
+  "authors" : [ "Unknown" ]
+}, {
+  "id" : 6,
+  "title" : "Njál's Saga",
+  "isbn" : "111-222-333",
+  "year" : 1350,
+  "authors" : [ "Unknown" ]
+}, {
+  "id" : 7,
+  "title" : "Pride and Prejudice",
+  "isbn" : "111-222-333",
+  "year" : 1813,
+  "authors" : [ "Jane Austen" ]
+}, {
+  "id" : 8,
+  "title" : "Le Père Goriot",
+  "isbn" : "111-222-333",
+  "year" : 1835,
+  "authors" : [ "Honoré de Balzac" ]
+}, {
+  "id" : 9,
+  "title" : "Molloy, Malone Dies, The Unnamable, the trilogy",
+  "isbn" : "111-222-333",
+  "year" : 1952,
+  "authors" : [ "Samuel Beckett" ]
+}, {
+  "id" : 10,
+  "title" : "The Decameron",
+  "isbn" : "111-222-333",
+  "year" : 1351,
+  "authors" : [ "Giovanni Boccaccio" ]
+}, {
+  "id" : 11,
+  "title" : "Ficciones",
+  "isbn" : "111-222-333",
+  "year" : 1965,
+  "authors" : [ "Jorge Luis Borges" ]
+}, {
+  "id" : 12,
+  "title" : "Wuthering Heights",
+  "isbn" : "111-222-333",
+  "year" : 1847,
+  "authors" : [ "Emily Brontë" ]
+}, {
+  "id" : 13,
+  "title" : "The Stranger",
+  "isbn" : "111-222-333",
+  "year" : 1942,
+  "authors" : [ "Albert Camus" ]
+}, {
+  "id" : 14,
+  "title" : "Poems",
+  "isbn" : "111-222-333",
+  "year" : 1952,
+  "authors" : [ "Paul Celan" ]
+}, {
+  "id" : 15,
+  "title" : "Journey to the End of the Night",
+  "isbn" : "111-222-333",
+  "year" : 1932,
+  "authors" : [ "Louis-Ferdinand Céline" ]
+}, {
+  "id" : 16,
+  "title" : "Don Quijote De La Mancha",
+  "isbn" : "111-222-333",
+  "year" : 1610,
+  "authors" : [ "Miguel de Cervantes" ]
+}, {
+  "id" : 17,
+  "title" : "The Canterbury Tales",
+  "isbn" : "111-222-333",
+  "year" : 1450,
+  "authors" : [ "Geoffrey Chaucer" ]
+}, {
+  "id" : 18,
+  "title" : "Stories",
+  "isbn" : "111-222-333",
+  "year" : 1886,
+  "authors" : [ "Anton Chekhov" ]
+}, {
+  "id" : 19,
+  "title" : "Nostromo",
+  "isbn" : "111-222-333",
+  "year" : 1904,
+  "authors" : [ "Joseph Conrad" ]
+}, {
+  "id" : 20,
+  "title" : "Great Expectations",
+  "isbn" : "111-222-333",
+  "year" : 1861,
+  "authors" : [ "Charles Dickens" ]
+}, {
+  "id" : 21,
+  "title" : "Jacques the Fatalist",
+  "isbn" : "111-222-333",
+  "year" : 1796,
+  "authors" : [ "Denis Diderot" ]
+}, {
+  "id" : 22,
+  "title" : "Berlin Alexanderplatz",
+  "isbn" : "111-222-333",
+  "year" : 1929,
+  "authors" : [ "Alfred Döblin" ]
+}, {
+  "id" : 23,
+  "title" : "Crime and Punishment",
+  "isbn" : "111-222-333",
+  "year" : 1866,
+  "authors" : [ "Fyodor Dostoevsky" ]
+}, {
+  "id" : 24,
+  "title" : "The Idiot",
+  "isbn" : "111-222-333",
+  "year" : 1869,
+  "authors" : [ "Fyodor Dostoevsky" ]
+}, {
+  "id" : 25,
+  "title" : "The Possessed",
+  "isbn" : "111-222-333",
+  "year" : 1872,
+  "authors" : [ "Fyodor Dostoevsky" ]
+}, {
+  "id" : 26,
+  "title" : "The Brothers Karamazov",
+  "isbn" : "111-222-333",
+  "year" : 1880,
+  "authors" : [ "Fyodor Dostoevsky" ]
+}, {
+  "id" : 27,
+  "title" : "Middlemarch",
+  "isbn" : "111-222-333",
+  "year" : 1871,
+  "authors" : [ "George Eliot" ]
+}, {
+  "id" : 28,
+  "title" : "Invisible Man",
+  "isbn" : "111-222-333",
+  "year" : 1952,
+  "authors" : [ "Ralph Ellison" ]
+}, {
+  "id" : 29,
+  "title" : "Medea",
+  "isbn" : "111-222-333",
+  "year" : -431,
+  "authors" : [ "Euripides" ]
+}, {
+  "id" : 30,
+  "title" : "Absalom, Absalom!",
+  "isbn" : "111-222-333",
+  "year" : 1936,
+  "authors" : [ "William Faulkner" ]
+}, {
+  "id" : 31,
+  "title" : "The Sound and the Fury",
+  "isbn" : "111-222-333",
+  "year" : 1929,
+  "authors" : [ "William Faulkner" ]
+}, {
+  "id" : 32,
+  "title" : "Madame Bovary",
+  "isbn" : "111-222-333",
+  "year" : 1857,
+  "authors" : [ "Gustave Flaubert" ]
+}, {
+  "id" : 33,
+  "title" : "Sentimental Education",
+  "isbn" : "111-222-333",
+  "year" : 1869,
+  "authors" : [ "Gustave Flaubert" ]
+}, {
+  "id" : 34,
+  "title" : "Gypsy Ballads",
+  "isbn" : "111-222-333",
+  "year" : 1928,
+  "authors" : [ "Federico García Lorca" ]
+}, {
+  "id" : 35,
+  "title" : "One Hundred Years of Solitude",
+  "isbn" : "111-222-333",
+  "year" : 1967,
+  "authors" : [ "Gabriel García Márquez" ]
+}, {
+  "id" : 36,
+  "title" : "Love in the Time of Cholera",
+  "isbn" : "111-222-333",
+  "year" : 1985,
+  "authors" : [ "Gabriel García Márquez" ]
+}, {
+  "id" : 37,
+  "title" : "Faust",
+  "isbn" : "111-222-333",
+  "year" : 1832,
+  "authors" : [ "Johann Wolfgang von Goethe" ]
+}, {
+  "id" : 38,
+  "title" : "Dead Souls",
+  "isbn" : "111-222-333",
+  "year" : 1842,
+  "authors" : [ "Nikolai Gogol" ]
+}, {
+  "id" : 39,
+  "title" : "The Tin Drum",
+  "isbn" : "111-222-333",
+  "year" : 1959,
+  "authors" : [ "Günter Grass" ]
+}, {
+  "id" : 40,
+  "title" : "The Devil to Pay in the Backlands",
+  "isbn" : "111-222-333",
+  "year" : 1956,
+  "authors" : [ "João Guimarães Rosa" ]
+}, {
+  "id" : 41,
+  "title" : "Hunger",
+  "isbn" : "111-222-333",
+  "year" : 1890,
+  "authors" : [ "Knut Hamsun" ]
+}, {
+  "id" : 42,
+  "title" : "The Old Man and the Sea",
+  "isbn" : "111-222-333",
+  "year" : 1952,
+  "authors" : [ "Ernest Hemingway" ]
+}, {
+  "id" : 43,
+  "title" : "Iliad",
+  "isbn" : "111-222-333",
+  "year" : -735,
+  "authors" : [ "Homer" ]
+}, {
+  "id" : 44,
+  "title" : "Odyssey",
+  "isbn" : "111-222-333",
+  "year" : -800,
+  "authors" : [ "Homer" ]
+}, {
+  "id" : 45,
+  "title" : "A Doll's House",
+  "isbn" : "111-222-333",
+  "year" : 1879,
+  "authors" : [ "Henrik Ibsen" ]
+}, {
+  "id" : 46,
+  "title" : "Ulysses",
+  "isbn" : "111-222-333",
+  "year" : 1922,
+  "authors" : [ "James Joyce" ]
+}, {
+  "id" : 47,
+  "title" : "Stories",
+  "isbn" : "111-222-333",
+  "year" : 1924,
+  "authors" : [ "Franz Kafka" ]
+}, {
+  "id" : 48,
+  "title" : "The Trial",
+  "isbn" : "111-222-333",
+  "year" : 1925,
+  "authors" : [ "Franz Kafka" ]
+}, {
+  "id" : 49,
+  "title" : "The Castle",
+  "isbn" : "111-222-333",
+  "year" : 1926,
+  "authors" : [ "Franz Kafka" ]
+}, {
+  "id" : 50,
+  "title" : "The recognition of Shakuntala",
+  "isbn" : "111-222-333",
+  "year" : 150,
+  "authors" : [ "Kālidāsa" ]
+}, {
+  "id" : 51,
+  "title" : "The Sound of the Mountain",
+  "isbn" : "111-222-333",
+  "year" : 1954,
+  "authors" : [ "Yasunari Kawabata" ]
+}, {
+  "id" : 52,
+  "title" : "Zorba the Greek",
+  "isbn" : "111-222-333",
+  "year" : 1946,
+  "authors" : [ "Nikos Kazantzakis" ]
+}, {
+  "id" : 53,
+  "title" : "Sons and Lovers",
+  "isbn" : "111-222-333",
+  "year" : 1913,
+  "authors" : [ "D. H. Lawrence" ]
+}, {
+  "id" : 54,
+  "title" : "Independent People",
+  "isbn" : "111-222-333",
+  "year" : 1934,
+  "authors" : [ "Halldór Laxness" ]
+}, {
+  "id" : 55,
+  "title" : "Poems",
+  "isbn" : "111-222-333",
+  "year" : 1818,
+  "authors" : [ "Giacomo Leopardi" ]
+}, {
+  "id" : 56,
+  "title" : "The Golden Notebook",
+  "isbn" : "111-222-333",
+  "year" : 1962,
+  "authors" : [ "Doris Lessing" ]
+}, {
+  "id" : 57,
+  "title" : "Pippi Longstocking",
+  "isbn" : "111-222-333",
+  "year" : 1945,
+  "authors" : [ "Astrid Lindgren" ]
+}, {
+  "id" : 58,
+  "title" : "Diary of a Madman",
+  "isbn" : "111-222-333",
+  "year" : 1918,
+  "authors" : [ "Lu Xun" ]
+}, {
+  "id" : 59,
+  "title" : "Children of Gebelawi",
+  "isbn" : "111-222-333",
+  "year" : 1959,
+  "authors" : [ "Naguib Mahfouz" ]
+}, {
+  "id" : 60,
+  "title" : "Buddenbrooks",
+  "isbn" : "111-222-333",
+  "year" : 1901,
+  "authors" : [ "Thomas Mann" ]
+}, {
+  "id" : 61,
+  "title" : "The Magic Mountain",
+  "isbn" : "111-222-333",
+  "year" : 1924,
+  "authors" : [ "Thomas Mann" ]
+}, {
+  "id" : 62,
+  "title" : "Moby Dick",
+  "isbn" : "111-222-333",
+  "year" : 1851,
+  "authors" : [ "Herman Melville" ]
+}, {
+  "id" : 63,
+  "title" : "Essays",
+  "isbn" : "111-222-333",
+  "year" : 1595,
+  "authors" : [ "Michel de Montaigne" ]
+}, {
+  "id" : 64,
+  "title" : "History",
+  "isbn" : "111-222-333",
+  "year" : 1974,
+  "authors" : [ "Elsa Morante" ]
+}, {
+  "id" : 65,
+  "title" : "Beloved",
+  "isbn" : "111-222-333",
+  "year" : 1987,
+  "authors" : [ "Toni Morrison" ]
+}, {
+  "id" : 66,
+  "title" : "The Tale of Genji",
+  "isbn" : "111-222-333",
+  "year" : 1006,
+  "authors" : [ "Murasaki Shikibu" ]
+}, {
+  "id" : 67,
+  "title" : "The Man Without Qualities",
+  "isbn" : "111-222-333",
+  "year" : 1931,
+  "authors" : [ "Robert Musil" ]
+}, {
+  "id" : 68,
+  "title" : "Lolita",
+  "isbn" : "111-222-333",
+  "year" : 1955,
+  "authors" : [ "Vladimir Nabokov" ]
+}, {
+  "id" : 69,
+  "title" : "Nineteen Eighty-Four",
+  "isbn" : "111-222-333",
+  "year" : 1949,
+  "authors" : [ "George Orwell" ]
+}, {
+  "id" : 70,
+  "title" : "Metamorphoses",
+  "isbn" : "111-222-333",
+  "year" : 100,
+  "authors" : [ "Ovid" ]
+}, {
+  "id" : 71,
+  "title" : "The Book of Disquiet",
+  "isbn" : "111-222-333",
+  "year" : 1928,
+  "authors" : [ "Fernando Pessoa" ]
+}, {
+  "id" : 72,
+  "title" : "Tales",
+  "isbn" : "111-222-333",
+  "year" : 1950,
+  "authors" : [ "Edgar Allan Poe" ]
+}, {
+  "id" : 73,
+  "title" : "In Search of Lost Time",
+  "isbn" : "111-222-333",
+  "year" : 1920,
+  "authors" : [ "Marcel Proust" ]
+}, {
+  "id" : 74,
+  "title" : "Gargantua and Pantagruel",
+  "isbn" : "111-222-333",
+  "year" : 1533,
+  "authors" : [ "François Rabelais" ]
+}, {
+  "id" : 75,
+  "title" : "Pedro Páramo",
+  "isbn" : "111-222-333",
+  "year" : 1955,
+  "authors" : [ "Juan Rulfo" ]
+}, {
+  "id" : 76,
+  "title" : "The Masnavi",
+  "isbn" : "111-222-333",
+  "year" : 1236,
+  "authors" : [ "Rumi" ]
+}, {
+  "id" : 77,
+  "title" : "Midnight's Children",
+  "isbn" : "111-222-333",
+  "year" : 1981,
+  "authors" : [ "Salman Rushdie" ]
+}, {
+  "id" : 78,
+  "title" : "Bostan",
+  "isbn" : "111-222-333",
+  "year" : 1257,
+  "authors" : [ "Saadi" ]
+}, {
+  "id" : 79,
+  "title" : "Season of Migration to the North",
+  "isbn" : "111-222-333",
+  "year" : 1966,
+  "authors" : [ "Tayeb Salih" ]
+}, {
+  "id" : 80,
+  "title" : "Blindness",
+  "isbn" : "111-222-333",
+  "year" : 1995,
+  "authors" : [ "José Saramago" ]
+}, {
+  "id" : 81,
+  "title" : "Hamlet",
+  "isbn" : "111-222-333",
+  "year" : 1603,
+  "authors" : [ "William Shakespeare" ]
+}, {
+  "id" : 82,
+  "title" : "King Lear",
+  "isbn" : "111-222-333",
+  "year" : 1608,
+  "authors" : [ "William Shakespeare" ]
+}, {
+  "id" : 83,
+  "title" : "Othello",
+  "isbn" : "111-222-333",
+  "year" : 1609,
+  "authors" : [ "William Shakespeare" ]
+}, {
+  "id" : 84,
+  "title" : "Oedipus the King",
+  "isbn" : "111-222-333",
+  "year" : -430,
+  "authors" : [ "Sophocles" ]
+}, {
+  "id" : 85,
+  "title" : "The Red and the Black",
+  "isbn" : "111-222-333",
+  "year" : 1830,
+  "authors" : [ "Stendhal" ]
+}, {
+  "id" : 86,
+  "title" : "The Life And Opinions of Tristram Shandy",
+  "isbn" : "111-222-333",
+  "year" : 1760,
+  "authors" : [ "Laurence Sterne" ]
+}, {
+  "id" : 87,
+  "title" : "Confessions of Zeno",
+  "isbn" : "111-222-333",
+  "year" : 1923,
+  "authors" : [ "Italo Svevo" ]
+}, {
+  "id" : 88,
+  "title" : "Gulliver's Travels",
+  "isbn" : "111-222-333",
+  "year" : 1726,
+  "authors" : [ "Jonathan Swift" ]
+}, {
+  "id" : 89,
+  "title" : "War and Peace",
+  "isbn" : "111-222-333",
+  "year" : 1867,
+  "authors" : [ "Leo Tolstoy" ]
+}, {
+  "id" : 90,
+  "title" : "Anna Karenina",
+  "isbn" : "111-222-333",
+  "year" : 1877,
+  "authors" : [ "Leo Tolstoy" ]
+}, {
+  "id" : 91,
+  "title" : "The Death of Ivan Ilyich",
+  "isbn" : "111-222-333",
+  "year" : 1886,
+  "authors" : [ "Leo Tolstoy" ]
+}, {
+  "id" : 92,
+  "title" : "The Adventures of Huckleberry Finn",
+  "isbn" : "111-222-333",
+  "year" : 1884,
+  "authors" : [ "Mark Twain" ]
+}, {
+  "id" : 93,
+  "title" : "Ramayana",
+  "isbn" : "111-222-333",
+  "year" : -450,
+  "authors" : [ "Valmiki" ]
+}, {
+  "id" : 94,
+  "title" : "The Aeneid",
+  "isbn" : "111-222-333",
+  "year" : -23,
+  "authors" : [ "Virgil" ]
+}, {
+  "id" : 95,
+  "title" : "Mahabharata",
+  "isbn" : "111-222-333",
+  "year" : -700,
+  "authors" : [ "Vyasa" ]
+}, {
+  "id" : 96,
+  "title" : "Leaves of Grass",
+  "isbn" : "111-222-333",
+  "year" : 1855,
+  "authors" : [ "Walt Whitman" ]
+}, {
+  "id" : 97,
+  "title" : "Mrs Dalloway",
+  "isbn" : "111-222-333",
+  "year" : 1925,
+  "authors" : [ "Virginia Woolf" ]
+}, {
+  "id" : 98,
+  "title" : "To the Lighthouse",
+  "isbn" : "111-222-333",
+  "year" : 1927,
+  "authors" : [ "Virginia Woolf" ]
+}, {
+  "id" : 99,
+  "title" : "Memoirs of Hadrian",
+  "isbn" : "111-222-333",
+  "year" : 1951,
+  "authors" : [ "Marguerite Yourcenar" ]
+}, {
+  "id" : 200,
+  "title" : "1",
+  "isbn" : "2",
+  "year" : 2000,
+  "authors" : [ "Author" ]
+}, {
+  "id" : null,
+  "title" : null,
+  "isbn" : null,
+  "year" : 0,
+  "authors" : null
+}, {
+  "id" : 1,
+  "title" : "book",
+  "isbn" : "111",
+  "year" : 2000,
+  "authors" : null
+} ]
